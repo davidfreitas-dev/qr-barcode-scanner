@@ -1,0 +1,6 @@
+{
+  "appId": "com.qrbarcode.scanner.app",
+  "appName": "QR and Bar Code Scanner",
+  "bundledWebRuntime": false,
+  "webDir": "dist"
+}
