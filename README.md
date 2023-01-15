@@ -36,3 +36,10 @@ npx cap add android
 ```sh
 npx cap sync
 ```
+
+### Running iOS and Android
+
+```sh
+npx cap run ios
+npx cap run android
+```
